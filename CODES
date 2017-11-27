@@ -4,7 +4,7 @@ scanf
 int a,b;
 void main
 int a
-<h1>
+<h1> to <h6>
 <p>
 </p>
 <html>
@@ -13,3 +13,9 @@ int a
 <body/>
 <!Doctype html>
 <img>
+<title>
+<hr>
+<br>
+<b>
+<del>
+<form>
